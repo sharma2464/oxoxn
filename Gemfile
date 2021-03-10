@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-github 'https://github.com/sharma2464/oxoxn.git'
+# github 'https://github.com/sharma2464/oxoxn.git'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'

@@ -1,6 +1,5 @@
 class ProfilesController < ApplicationController
   before_action :set_profile, only: %i[ show edit update destroy ]
-  has_one :user
 
   # GET /profiles or /profiles.json
   def index
