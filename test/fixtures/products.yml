@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  osin: 1
+  price: 1
+  discount: 1
+  stock: false
+  profile: one
+
+two:
+  name: MyString
+  description: MyText
+  osin: 1
+  price: 1
+  discount: 1
+  stock: false
+  profile: two
