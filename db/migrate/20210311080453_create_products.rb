@@ -7,7 +7,7 @@ class CreateProducts < ActiveRecord::Migration[5.0]
       t.integer :price
       t.integer :discount
       t.boolean :stock
-      t.references :profile, foreign_key: true
+      t.references :profile, null:  false, foreign_key: true
 
       t.timestamps
     end
